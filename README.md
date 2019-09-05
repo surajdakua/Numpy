@@ -17,7 +17,7 @@ Numpy for Data Science and Machine Learning
 	9. Find the sin, cos, logarithmic, exponential etc of array.
 	10. Also reduces the computation time of the program.
 #### Installation:
-pip install numpy 
+pip3 install numpy 
 # Enjoy!!!!!
 
 
