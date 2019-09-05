@@ -16,7 +16,8 @@ Numpy for Data Science and Machine Learning
 	8. Find min, max, argmin, argmax, median, std, transpose of array. 
 	9. Find the sin, cos, logarithmic, exponential etc of array.
 	10. Also reduces the computation time of the program.
-
+#### Installation:
+pip install numpy 
 # Enjoy!!!!!
 
 
