@@ -8,7 +8,7 @@ Numpy is memory efficient and provides extremely fast numerical computation.
 import numpy as np 
 '''
 Below shown the 1-D array.
-1-D array is called a vector
+1-D array is called a scalar
 '''
 nparr = np.array([100,101,102,103,104])
 #length returns the size of the rows in the array
